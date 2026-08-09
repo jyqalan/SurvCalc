@@ -1,0 +1,14 @@
+// modification.txt
+//
+// Modify the string USER_MODIFICATION_DESCRIPTION to include any additional version descriptors.
+// For example, if you compile a "special" version for some purpose, then this string is
+// in all output as a part of the version number of SurvCalc.
+//
+// This can be useful to distinguish the "special" version from the base version.
+// Do not include any line-breaks in the string -- this is done in model.cpp
+//
+// SurvCalc will output:
+//    WARNING: This is a modified version of SurvCalc.
+// then the text in USER_MODIFICATION_DESCRIPTION as an extra line in the usual SurvCalc header.
+//
+static const std::string USER_MODIFICATION_DESCRIPTION="";

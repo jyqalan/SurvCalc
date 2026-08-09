@@ -1,0 +1,24 @@
+static const char LICENSE[]="SurvCalc (including the software, documentation, examples and other ancillary files) is not free software. You may not distribute SurvCalc or modify SurvCalc under any circumstances without the written authorisation of the National Institute of Water and Atmospheric Research Limited of 269 Khyber Pass Road, Newmarket, Auckland (NIWA).\n\n\
+\
+You may use SurvCalc for non-commercial or evaluation purposes only. You may make copies of this software only as reasonably required for backup purposes. You must not distribute, sell or otherwise make SurvCalc available for use by a third party. You must not use all or any part of SurvCalc in conjunction with any product or service (including training or consulting) for commercial gain.\n\n\
+\
+NIWA grants you a non-exclusive and non-transferable right to use SurvCalc only in accordance with the terms of this licence. NIWA reserves the right to refuse to license SurvCalc to any person without giving reasons thereof. Requests for the use of SurvCalc outside the terms of this licence should be directed to NIWA at http://www.niwa.co.nz/.\n\n\
+\
+This licence agreement is formed when you accept the terms of this licence by using or running SurvCalc.\n\n\
+\
+NIWA reserves the copyright and all other intellectual property rights in SurvCalc.\n\n\
+\
+NIWA makes no representations or warranties regarding the accuracy of SurvCalc, the use to which SurvCalc may be put or the results to be obtained from the use of SurvCalc. Accordingly NIWA accepts no liability for any loss or damage (whether direct or indirect) incurred by any person through the use of or reliance on SurvCalc.\n\n\
+\
+NIWA is to be acknowledged in publications relating to the use of or from conclusions drawn from SurvCalc. However, you must not, without written permission, use the name or any trademark or logo of NIWA to claim any sponsorship, endorsement, approval or affiliation or other association with NIWA by virtue of this licence.\n\n\
+\
+The SurvCalc software, documentation, example and other ancillary files are distributed in the hope that they will be useful for non-commercial or evaluation purposes only, but without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose.\n\n\
+\
+This licence is governed by and construed in accordance with the laws of New Zealand.\n\n\
+\
+A suitable reference for SurvCalc is:\n\
+\
+R.I.C.C Francis, Fu, D. (in prep.). SurvCalc User Manual v 1.0. Unpublished report.\n\n\
+\
+See http://www.niwa.co.nz/ for more information\n\n\
+(c) Copyright NIWA 2008-2009.";

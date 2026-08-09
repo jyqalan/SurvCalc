@@ -1,0 +1,58 @@
+@trips   tan0801
+@LF_scaling numbers_per_km2
+
+
+
+
+@species tan0801
+codes   HOK
+
+
+@areal_availability tan0801_HOK
+default_value 1
+
+@vulnerability tan0801_HOK
+default_value 1
+
+@vertical_availability tan0801_HOK
+default_value 1
+
+
+@lw_coeff tan0801_HOK
+a 0.5
+b 0.5
+c 0.1
+
+
+@preferences tan0801
+distance_towed recorded_distance recorded_speed*time from_lat_long
+width_swept recorded_doorspread constant_doorspread
+catch_weight   recorded 
+
+@constant_speed tan0801
+value 3.5
+
+@constant_doorspread tan0801
+value 110
+
+
+
+@phase_2 tan0801_HOK
+n_stations 10
+algorithm mean_squared
+
+
+@output_tables
+sub_biomass_by_stratum T
+biomass_by_species T
+biomass_by_species_stratum T
+LFs_by_stratum T
+LFs_by_station T
+Number_measured T
+LF_totals T
+
+@output_precision
+quantity density biomass LF_number          cv       gain
+type 	sig_fig  sig_fig    sig_fig  dec_place  dec_place 
+precision     8        8          8          1          0
+
