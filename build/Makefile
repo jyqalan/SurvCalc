@@ -136,19 +136,6 @@ version/fast:
 .PHONY : version/fast
 
 #=============================================================================
-# Target rules for targets named SurvCalc
-
-# Build rule for target.
-SurvCalc: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 SurvCalc
-.PHONY : SurvCalc
-
-# fast build rule for target.
-SurvCalc/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\SurvCalc.dir\build.make CMakeFiles/SurvCalc.dir/build
-.PHONY : SurvCalc/fast
-
-#=============================================================================
 # Target rules for targets named newran
 
 # Build rule for target.
@@ -160,6 +147,19 @@ newran: cmake_check_build_system
 newran/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\newran.dir\build.make CMakeFiles/newran.dir/build
 .PHONY : newran/fast
+
+#=============================================================================
+# Target rules for targets named SurvCalc
+
+# Build rule for target.
+SurvCalc: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 SurvCalc
+.PHONY : SurvCalc
+
+# fast build rule for target.
+SurvCalc/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SurvCalc.dir\build.make CMakeFiles/SurvCalc.dir/build
+.PHONY : SurvCalc/fast
 
 src/SurvCalc.obj: src/SurvCalc.rc.obj
 .PHONY : src/SurvCalc.obj

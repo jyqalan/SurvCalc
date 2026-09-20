@@ -1,3 +1,3 @@
 "C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\SurvCalc.dir/objects.a
 C:\TDM-GCC-64\bin\ar.exe qc CMakeFiles\SurvCalc.dir/objects.a @CMakeFiles\SurvCalc.dir\objects1.rsp
-C:\TDM-GCC-64\bin\c++.exe -g -static -Wl,--whole-archive CMakeFiles\SurvCalc.dir/objects.a -Wl,--no-whole-archive -o SurvCalc.exe -Wl,--out-implib,libSurvCalc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SurvCalc.dir\linkLibs.rsp
+C:\TDM-GCC-64\bin\c++.exe -static -Wl,--whole-archive CMakeFiles\SurvCalc.dir/objects.a -Wl,--no-whole-archive -o SurvCalc.exe -Wl,--out-implib,libSurvCalc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SurvCalc.dir\linkLibs.rsp

@@ -7,7 +7,7 @@ CXX_DEFINES =
 
 CXX_INCLUDES = 
 
-CXX_FLAGS = -g -O0 -g3 -Wall -fmessage-length=0
+CXX_FLAGS = -O0 -g3 -Wall -fmessage-length=0
 
 RC_DEFINES = 
 

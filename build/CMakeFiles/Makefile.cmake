@@ -154,6 +154,6 @@ set(CMAKE_MAKEFILE_PRODUCTS
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/version.dir/DependInfo.cmake"
-  "CMakeFiles/SurvCalc.dir/DependInfo.cmake"
   "CMakeFiles/newran.dir/DependInfo.cmake"
+  "CMakeFiles/SurvCalc.dir/DependInfo.cmake"
   )
