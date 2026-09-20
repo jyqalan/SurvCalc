@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.4)
+cmake_minimum_required(VERSION 4.4.3)
 project(SurvCalc)
 
 # to run (Windows, Mingw32-gcc)
@@ -28,8 +28,8 @@ ENDIF (WIN32)
 
 # Autogeneration of Version.h file in src directory (backing up current ('NULL') version
 ADD_CUSTOM_TARGET(version ALL
-  COMMAND cp ${PROJECT_SOURCE_DIR}/src/version.h ${PROJECT_SOURCE_DIR}/src/version.h.old
-  COMMAND svn_version --quiet --format c++ --path ${PROJECT_SOURCE_DIR} --output ${PROJECT_SOURCE_DIR}/src/version.h --recursive
+  #COMMAND cp ${PROJECT_SOURCE_DIR}/src/version.h ${PROJECT_SOURCE_DIR}/src/version.h.old
+  #COMMAND svn_version --quiet --format c++ --path ${PROJECT_SOURCE_DIR} --output ${PROJECT_SOURCE_DIR}/src/version.h --recursive
 )
 
 SET(SOURCE_FILES
