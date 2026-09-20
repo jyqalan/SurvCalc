@@ -1,0 +1,140 @@
+[
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -o CMakeFiles\\newran.dir\\src\\newran_02C\\extreal.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\newran_02C\\extreal.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/newran_02C/extreal.cpp",
+  "output": "CMakeFiles/newran.dir/src/newran_02C/extreal.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -o CMakeFiles\\newran.dir\\src\\newran_02C\\newran.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\newran_02C\\newran.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/newran_02C/newran.cpp",
+  "output": "CMakeFiles/newran.dir/src/newran_02C/newran.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -o CMakeFiles\\newran.dir\\src\\newran_02C\\myexcept.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\newran_02C\\myexcept.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/newran_02C/myexcept.cpp",
+  "output": "CMakeFiles/newran.dir/src/newran_02C/myexcept.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -O0 -g3 -Wall -fmessage-length=0 -o CMakeFiles\\SurvCalc.dir\\src\\datamanager.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\datamanager.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/datamanager.cpp",
+  "output": "CMakeFiles/SurvCalc.dir/src/datamanager.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -O0 -g3 -Wall -fmessage-length=0 -o CMakeFiles\\SurvCalc.dir\\src\\development.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\development.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/development.cpp",
+  "output": "CMakeFiles/SurvCalc.dir/src/development.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -O0 -g3 -Wall -fmessage-length=0 -o CMakeFiles\\SurvCalc.dir\\src\\dictionary.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\dictionary.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/dictionary.cpp",
+  "output": "CMakeFiles/SurvCalc.dir/src/dictionary.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -O0 -g3 -Wall -fmessage-length=0 -o CMakeFiles\\SurvCalc.dir\\src\\model.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\model.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/model.cpp",
+  "output": "CMakeFiles/SurvCalc.dir/src/model.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -O0 -g3 -Wall -fmessage-length=0 -o CMakeFiles\\SurvCalc.dir\\src\\parameter_set.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\parameter_set.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/parameter_set.cpp",
+  "output": "CMakeFiles/SurvCalc.dir/src/parameter_set.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -O0 -g3 -Wall -fmessage-length=0 -o CMakeFiles\\SurvCalc.dir\\src\\sample.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\sample.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/sample.cpp",
+  "output": "CMakeFiles/SurvCalc.dir/src/sample.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -O0 -g3 -Wall -fmessage-length=0 -o CMakeFiles\\SurvCalc.dir\\src\\species.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\species.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/species.cpp",
+  "output": "CMakeFiles/SurvCalc.dir/src/species.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -O0 -g3 -Wall -fmessage-length=0 -o CMakeFiles\\SurvCalc.dir\\src\\station.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\station.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/station.cpp",
+  "output": "CMakeFiles/SurvCalc.dir/src/station.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -O0 -g3 -Wall -fmessage-length=0 -o CMakeFiles\\SurvCalc.dir\\src\\stratum.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\stratum.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/stratum.cpp",
+  "output": "CMakeFiles/SurvCalc.dir/src/stratum.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -O0 -g3 -Wall -fmessage-length=0 -o CMakeFiles\\SurvCalc.dir\\src\\survey.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\survey.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/survey.cpp",
+  "output": "CMakeFiles/SurvCalc.dir/src/survey.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -O0 -g3 -Wall -fmessage-length=0 -o CMakeFiles\\SurvCalc.dir\\src\\trip.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\trip.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/trip.cpp",
+  "output": "CMakeFiles/SurvCalc.dir/src/trip.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -O0 -g3 -Wall -fmessage-length=0 -o CMakeFiles\\SurvCalc.dir\\src\\t_catch.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\t_catch.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/t_catch.cpp",
+  "output": "CMakeFiles/SurvCalc.dir/src/t_catch.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -O0 -g3 -Wall -fmessage-length=0 -o CMakeFiles\\SurvCalc.dir\\src\\t_lgth.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\t_lgth.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/t_lgth.cpp",
+  "output": "CMakeFiles/SurvCalc.dir/src/t_lgth.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -O0 -g3 -Wall -fmessage-length=0 -o CMakeFiles\\SurvCalc.dir\\src\\t_subcatch.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\t_subcatch.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/t_subcatch.cpp",
+  "output": "CMakeFiles/SurvCalc.dir/src/t_subcatch.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -O0 -g3 -Wall -fmessage-length=0 -o CMakeFiles\\SurvCalc.dir\\src\\t_LW_coeffs.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\t_LW_coeffs.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/t_LW_coeffs.cpp",
+  "output": "CMakeFiles/SurvCalc.dir/src/t_LW_coeffs.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -O0 -g3 -Wall -fmessage-length=0 -o CMakeFiles\\SurvCalc.dir\\src\\t_station.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\t_station.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/t_station.cpp",
+  "output": "CMakeFiles/SurvCalc.dir/src/t_station.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -O0 -g3 -Wall -fmessage-length=0 -o CMakeFiles\\SurvCalc.dir\\src\\t_station_catch.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\t_station_catch.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/t_station_catch.cpp",
+  "output": "CMakeFiles/SurvCalc.dir/src/t_station_catch.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -O0 -g3 -Wall -fmessage-length=0 -o CMakeFiles\\SurvCalc.dir\\src\\t_stratum.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\t_stratum.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/t_stratum.cpp",
+  "output": "CMakeFiles/SurvCalc.dir/src/t_stratum.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -O0 -g3 -Wall -fmessage-length=0 -o CMakeFiles\\SurvCalc.dir\\src\\t_stratum_catch.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\t_stratum_catch.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/t_stratum_catch.cpp",
+  "output": "CMakeFiles/SurvCalc.dir/src/t_stratum_catch.cpp.obj"
+},
+{
+  "directory": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe   -g -O0 -g3 -Wall -fmessage-length=0 -o CMakeFiles\\SurvCalc.dir\\src\\betadiff\\betadiff.cpp.obj -c \"C:\\Users\\jyqal\\OneDrive - Food and Agriculture Organization\\workspace\\SurvCalc\\src\\betadiff\\betadiff.cpp\"",
+  "file": "C:/Users/jyqal/OneDrive - Food and Agriculture Organization/workspace/SurvCalc/src/betadiff/betadiff.cpp",
+  "output": "CMakeFiles/SurvCalc.dir/src/betadiff/betadiff.cpp.obj"
+}
+]
